@@ -3,10 +3,10 @@
     "description": "https://github.com/Sunert/Scripts", 
     "task": [
         {
-            "config": "0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/moji.js, tag=墨迹天气, img-url=https://raw.githubusercontent.com/Sunert/ProxyConfig/master/QuantumultX/Rules/Images/icon/moji.png, enabled=true"
+            "config": "0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/moji.js, tag=墨迹天气, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/moji.png, enabled=true"
         }, 
         {
-            "config": "0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/tvpreview.js, tag=节目预告, img-url=https://raw.githubusercontent.com/Sunert/ProxyConfig/master/QuantumultX/Rules/Images/icon/tvpreview.png, enabled=true"
+            "config": "0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/tvpreview.js, tag=节目预告, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/tvpreview.png, enabled=true"
         }, 
         {
             "config": "0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/trainquery.js, tag=12306火车时刻, img-url=https://raw.githubusercontent.com/Orz-3/task/master/12306.png, enabled=false"
@@ -15,7 +15,7 @@
             "config": "4 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/exchangeRate.js, tag=实时货币换算, img-url=https://raw.githubusercontent.com/Orz-3/task/master/exchangerate.png, enabled=false"
         }, 
         {
-            "config": "7 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/translate.js, tag=谷歌中英互译, img-url= https://raw.githubusercontent.com/Orz-3/task/master/translate.png, enabled=false"
+            "config": "7 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/translate.js, tag=谷歌中英互译, img-url=https://raw.githubusercontent.com/Orz-3/task/master/translate.png, enabled=false"
         }, 
         {
             "config": "0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/telecomInfinity.js, tag=中国电信套餐, img-url=https://raw.githubusercontent.com/Orz-3/task/master/telecominfinty.png, enabled=true", 
@@ -55,7 +55,7 @@
         }, 
         {
             "config": "20 15 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=youth_rewite, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/youth/qx_youthread.txt, tag=youth_auto, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
             "config": "20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true", 
@@ -66,11 +66,11 @@
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/digit_home/qx_rewite.txt, tag=mydigit_rewite, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
-            "config": "*/10 */3 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js, tag=聚看点, img-url=https://raw.githubusercontent.com/Sunert/ProxyConfig/master/QuantumultX/Rules/Images/icon/jukan.png, enabled=true", 
+            "config": "*/10 */3 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js, tag=聚看点, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/jukan.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/jukan/qx_rewite.txt, tag=jkd_rewite, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
-            "config": "*/30 * * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://raw.githubusercontent.com/Sunert/ProxyConfig/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true"
+            "config": "*/30 * * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true"
         }
     ]
 }
